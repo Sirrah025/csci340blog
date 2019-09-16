@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introduction Post
-date: 2019-09-16 14:41:41 -0500
+title: "Introduction Post"
+date: 2019-09-16 15:26:41 -0500
 categories: jekyll update
 ---
 # My first experience with jekyll (and command prompt)
