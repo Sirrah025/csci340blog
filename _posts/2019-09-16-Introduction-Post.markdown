@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introduction Post"
+author: "Will Harris"
 date: 2019-09-16 15:26:41 -0500
 categories: jekyll update
 ---
