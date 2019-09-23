@@ -5,7 +5,7 @@ author: "Will Harris"
 date: 2019-09-23 15:34:30 -0500
 categories: jekyll update
 ---
-#How I learned to stop worrying and love the jekyll
+# How I learned to stop worrying and love the jekyll
 
 So this was a very interesting lab for me. Especially so when the teacher underestimates how difficult the lab would be.
 
