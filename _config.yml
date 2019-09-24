@@ -18,6 +18,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: videogames
+    url: /videogames
 
 social:
   github: Sirrah025
