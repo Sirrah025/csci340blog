@@ -9,7 +9,7 @@ categories: jekyll update
 
 This was a unique challenge for me. But eventually, I was able to make an entity relationship diagram on Draw.io. The first thing I did was figure out the main objects in the diagram: Customers, Items, and Sellers. I know that to determine who would win an auction, you need a bid and the time the customer made the bid. The closing time for the item is needed as well, to determine who made the most recent bid. I also assume that the client would want to know which seller is selling which item, to both keep track of sales and to determine who gets what seller fee, and that their seller fee is derived from the winning bid.
 With this information, I drew an entity relationship diagram as you can see here:
-![draw.io diagram](Data Modeling.png)
+![draw.io diagram]({{site.baseurl}}/assets/img/Data Modeling.png)
 Customers and Auctions are related by the Auction and Winning Bid, as those are the primary things that happen on the website. The Seller is related to the item because they are being sold by the seller, and is related to the Winning Bid by the Seller Fee, since the Seller Fee is derived from the Winning Bid.
 
 With all that information shown in a diagram, I turned my attention to creating a schema:
