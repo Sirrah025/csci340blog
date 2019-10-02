@@ -13,7 +13,7 @@ With this information, I drew an entity relationship diagram as you can see here
 Customers and Auctions are related by the Auction and Winning Bid, as those are the primary things that happen on the website. The Seller is related to the item because they are being sold by the seller, and is related to the Winning Bid by the Seller Fee, since the Seller Fee is derived from the Winning Bid.
 
 With all that information shown in a diagram, I turned my attention to creating a schema:
-![vertabelo schema](Lab5.png)
+![vertabelo schema]({{site.baseurl}}/assets/img/Lab5.png)
 The Seller doesn't have the Seller Fee item, because Seller Fee became its own table that is related to both Seller and Highest Bid. Highest Bid and Auction are related because whatever bids happen in an auction will increase the highest bid.
 
 Overall, I am satisfied with the data representation. However, I would have probably preferred if not every element had a primary key.
