@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Lab 7"
+author: "Will Harris"
+date: 2019-11-1 18:35:12 -0500
+categories: jekyll update
+---
+#My reflection on the lab.
+
+The Kahn Academy assignment you had us do for the lab does a very good job of teaching us how to use JQuery in different ways. I was able to use some of them to create inputs and change elements on button presses.
+
+The hardest thing for me was actually putting the APIs in the website, as I had some difficulty first learning how to use APIs and then actually implementing them. The Kahn Academy didn't cover how to use APIs, so it was a challenge to put APIs in place. I was able to implement them before I encountered another problem: syntax.
+
+The last problem was easy to deal with once the error has been identified. Overall, the exciting part to me was actually making the website more dynamic and interactive. It definitely was fun to mess around with javascript and to implement the various bits of ajax to make the thing work. I certainly hope my javascript skills are good enough now.
